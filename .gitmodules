@@ -34,3 +34,5 @@
 [submodule "chf"]
 	path = NFs/chf
 	url = https://github.com/free5gc/chf.git
+[submodule "NFs/amf"]
+	branch = main
